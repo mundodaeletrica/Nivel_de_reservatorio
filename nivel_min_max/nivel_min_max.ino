@@ -38,6 +38,8 @@
 #define DEFEITO 3
 
 
+unsigned char novo(unsigned char novo_estado);
+
 
 // indica transição de estado do reservatório
 boolean transicao = true;
